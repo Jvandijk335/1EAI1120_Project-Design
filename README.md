@@ -1,1 +1,1 @@
-# 1EAI1120-Project-Design-2024-25---PBEAI-
+# 1EAI1120 Project Design (2024-25)
