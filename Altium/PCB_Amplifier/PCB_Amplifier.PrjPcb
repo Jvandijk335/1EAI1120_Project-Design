@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TWSEUQQJ
 
 [Document5]
-DocumentPath=PcbLib1.PcbLib
+DocumentPath=AB-Amplifier.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
