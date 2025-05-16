@@ -1,0 +1,25 @@
+CSV text has been written to file : AB-Amplifier.csv
+
+Library Component Count : 18
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+3.5mm female phone jackFemale 3.5 mm Phone Jack, 5 Position, Height 5 mm, RoHS, Tape and Reel
+Capasitor - 0805    
+Connector           Ferrite Bead
+Diode - 1N4148      Fast Switching Diode, 100 V, 0.15 A, -65 to 150 degC, 2-Pin?SOD123, RoHS, Tape and Reel
+Elco - 1.0uF        
+Elco - 100uF        
+Elco - 10uF         
+Elco - 2000uF       
+Potentiometer       249FGJSPXB25503KA Res Cermet POT 50K Ohm 20% 1W 1(Elec)/1(Mech)Turn 6.35mm Pin Panel Mount/Through Hole Bulk
+Resistor - 1W Through Hole
+Resistor 0805       
+Transistor - BC547  Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Pb-Free, Bulk Box
+Transistor - BC547_1Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Pb-Free, Bulk Box
+Transistor - BC557  Amplifier Transistor, PNP Silicon, 3-Pin TO-92, Pb-Free, Bulk Box
+Transistor - BC557_1Amplifier Transistor, PNP Silicon, 3-Pin TO-92, Pb-Free, Bulk Box
+Transistor - BD139  
+Transistor - BDW93C BDW93C BDW93C Series 100 V 12 A 80 W NPN Darlington Transistor - TO-220-3
+Transistor - BDW94C Transistor BJT PNP
