@@ -219,6 +219,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULFCWLGX
 
+[Document11]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=AB-Amplifier.csv
 DItemRevisionGUID=
@@ -228,11 +245,63 @@ DocumentPath=AB-Amplifier.rep
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Amplifier\Design Rule Check - TEST.html
+DocumentPath=Project Outputs for PCB_Amplifier\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for PCB_Amplifier\Design Rule Check - TEST.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PCB_Amplifier\Design Rule Check - Voeding.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\Voeding.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Amplifier\Gerber\Voeding.REP
 DItemRevisionGUID=
 
 [Configuration1]
